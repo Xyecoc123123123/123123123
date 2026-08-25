@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="mods">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/run/mods/s9gIPDom-AHWzDWSx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/run/mods/fabric-api-0.117.0+1.21.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/run/mods/sodium-fabric-0.6.5+mc1.21.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/run/mods/Mass Effect.zip!/" />
+      <root url="jar://$PROJECT_DIR$/run/mods/cloth-config-17.0.144-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/run/mods/mas-effects-1.21.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/run/mods/IAS-9.0.7-1.21.4-fabric (1).jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

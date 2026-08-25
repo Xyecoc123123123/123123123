@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="15.0.6+b1c29d8e04">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_4_1_21_4_build_8_v2/net/fabricmc/fabric-api/fabric-biome-api-v1-common/15.0.6+b1c29d8e04/fabric-biome-api-v1-common-15.0.6+b1c29d8e04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_4_1_21_4_build_8_v2/net/fabricmc/fabric-api/fabric-biome-api-v1-common/15.0.6+b1c29d8e04/fabric-biome-api-v1-common-15.0.6+b1c29d8e04-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

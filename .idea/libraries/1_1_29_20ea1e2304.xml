@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="1.1.29+20ea1e2304">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_4_1_21_4_build_8_v2/net/fabricmc/fabric-api/fabric-client-tags-api-v1-client/1.1.29+20ea1e2304/fabric-client-tags-api-v1-client-1.1.29+20ea1e2304.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_4_1_21_4_build_8_v2/net/fabricmc/fabric-api/fabric-client-tags-api-v1-client/1.1.29+20ea1e2304/fabric-client-tags-api-v1-client-1.1.29+20ea1e2304-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

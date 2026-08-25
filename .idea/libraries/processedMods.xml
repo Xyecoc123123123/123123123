@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="processedMods">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/run/.fabric/processedMods/sodium-0.6.5+mc1.21.4-64b5720b4b825f21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/run/.fabric/processedMods/com_neovisionaries_nv-websocket-client-2.14-c977f42ce3865a42.jar!/" />
+      <root url="jar://$PROJECT_DIR$/run/.fabric/processedMods/motionblurx-1.0-SNAPSHOT-64b5720b4b825f21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/run/.fabric/processedMods/com_github_figuramc_luaj_luaj-js.0.8-figura-cdce68dda961bbd9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/run/.fabric/processedMods/figura-0.1.5b+1.21.4-64b5720b4b825f21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/run/.fabric/processedMods/cloth-basic-math-0.6.1-17ea6dce277cc3b8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/run/.fabric/processedMods/cloth-config-17.0.144-64b5720b4b825f21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/run/.fabric/processedMods/maseffects-1.0.0-64b5720b4b825f21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/run/.fabric/processedMods/ias-9.0.7+1.21.4-fabric-64b5720b4b825f21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/run/.fabric/processedMods/com_github_figuramc_luaj_luaj-co.0.8-figura-887cb5625bf52c29.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

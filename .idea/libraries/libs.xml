@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/baritone-standalone-fabric-1.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/baritone-api-fabric-1.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jna-5.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/nether-pathfinder-1.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
