@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="remapped_working" level="project" />
+    <orderEntry type="library" name="2.14.1+1edcd29104" level="project" />
+    <orderEntry type="library" name="libs" level="project" />
+    <orderEntry type="library" name="4.0.14+7feeb73304" level="project" />
+    <orderEntry type="library" name="10.2.1+0d31b09f04" level="project" />
+    <orderEntry type="library" name="4.0.14+7feeb73305" level="project" />
+    <orderEntry type="library" name="minecraft-common-d1fae903ae-1.21.4-net.fabricmc.yarn.1_21_4.1.21.4+build.8-v2" level="project" />
+    <orderEntry type="library" name="minecraft-clientOnly-d1fae903ae-1.21.4-net.fabricmc.yarn.1_21_4.1.21.4+build.8-v2" level="project" />
+  </component>
+</module>
